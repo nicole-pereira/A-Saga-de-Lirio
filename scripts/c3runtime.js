@@ -3196,6 +3196,7 @@ WaypointYAt(i){return this._GetWaypointYAt(i)}}};
 		C3.Behaviors.Bullet.Acts.SetDistanceTravelled,
 		C3.Behaviors.Bullet.Acts.SetAngleOfMotion,
 		C3.Behaviors.MoveTo.Acts.MoveToObject,
+		C3.Behaviors.MoveTo.Acts.Stop,
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.Text.Acts.SetVisible,
 		C3.Plugins.System.Cnds.CompareTime,
